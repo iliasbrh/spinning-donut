@@ -1,5 +1,4 @@
-Spinning ascii donut to have entertainment in the console
-                                                                      
+                                                                    
                                            .------___
                                    ..---_____________^^^^;;
                                .-__^^^^^^^^^^________^^^;;;<<!
