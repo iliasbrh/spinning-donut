@@ -1,4 +1,5 @@
-<pre>                                                                    
+# Spinning donut in the terminal
+
                                            .------___
                                    ..---_____________^^^^;;
                                .-__^^^^^^^^^^________^^^;;;<<!
@@ -25,7 +26,5 @@
         <!!!!!ccccjjj222dddBBBB%%%%@@@%
            cccjjjj222ddddBBB%%%%%%
                  22ddddBBBB
-</pre>                                                                    
-  
   
 ![Spinning donut video](./demo.gif)
